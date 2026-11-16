@@ -1,6 +1,6 @@
 # crowsnest-modules
 
-Game modules for [CrowsNest](https://github.com/fiddler110/CrowsNest). A module is one YAML file that teaches
+Game modules for [CrowsNest](https://github.com/MacLeodTech/CrowsNest). A module is one YAML file that teaches
 CrowsNest to run one game server: its container, ports, settings form, when it counts as online, who is connected,
 and (optionally) how to back it up and restore it. There is no code in a module.
 
